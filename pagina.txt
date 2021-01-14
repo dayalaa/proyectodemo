@@ -1,8 +1,10 @@
-otra pagina de prueba
+otra pagina de prueba 2
 
-diego fernando ayal
+diego fernando ayala
 
-36 años
+si es 35 años
 
 
-esta si, ono
+esta si, o no
+
+esta es otra prueba de los cambios en git.
